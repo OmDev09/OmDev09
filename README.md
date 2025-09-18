@@ -1,34 +1,53 @@
-# Hi there 👋, I'm Om
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Om </h1>
+<h3 align="center">🚀 A passionate Full Stack Developer from Mumbai, India </h3>
 
-### 🚀 About Me
-- 🎓 Student at **Don Bosco Institute of Technology, Mumbai**
-- 💻 Passionate **Java Fullstack Developer**
-- 📱 Building Android apps with **Jetpack Compose + Firebase**
-- 📚 Preparing for **GATE Exam**
-- 🌱 Always learning and growing in **DSA | System Design | Cloud**
-
----
-
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Python+%7C+DSA+Enthusiast;Always+Learning+New+Things;MERN+Stack+Lover" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
-![Om's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmDev09&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmDev09&layout=compact&theme=radical)
+## 👨‍💻 About Me
+- 🌟 Skilled in **Python, DSA, and MERN Stack**
+- 📚 Currently upgrading my **JavaScript Frameworks** knowledge
+- 🎯 Love building **interactive, production-ready applications**
+- 🚀 Open to **collaborations & exciting projects**
 
 ---
 
-### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-OmChaudhari-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?style=flat-square&logo=firefox)](https://yourwebsite.com)
+## ⚡ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”* ✨
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/om-mahale/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://twitter.com/YOUR-HANDLE" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png"/></a>
+  <a href="mailto:reachomchaudhari@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+💡 *“Code is like humor. When you have to explain it, it’s bad.”*
+
